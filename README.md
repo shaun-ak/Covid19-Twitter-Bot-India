@@ -5,3 +5,6 @@ I had to apply to twitter developers to get access to their API.
 
 ![Screenshot (365)](https://user-images.githubusercontent.com/51281688/130342324-edccdb39-3a33-42b7-8e8b-ec1cf8ab3412.png)
 
+
+![Screenshot (366)](https://user-images.githubusercontent.com/51281688/130342361-5ffe84a9-0195-4c70-a197-133353d94f12.png)
+
